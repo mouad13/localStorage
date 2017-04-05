@@ -15,10 +15,3 @@ $('#btn').click(function(){
 
 });
 
-function chaine( nbCaracteres ){
-	return "kjhkj";
-}
-
-
-
-//chaine( 10 );
