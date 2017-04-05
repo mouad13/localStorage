@@ -7,9 +7,6 @@ if(text !==null){
 }
 
 
-
-
-
 $('#btn').click(function(){
 	var valeur = $('#champ').val();
 	localStorage.setItem('exols', valeur);
@@ -17,3 +14,11 @@ $('#btn').click(function(){
 	window.location.reload()
 
 });
+
+function chaine( nbCaracteres ){
+	return "kjhkj";
+}
+
+
+
+//chaine( 10 );
